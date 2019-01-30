@@ -1,2 +1,9 @@
 # spatiotemporal-data-tutorial-project
-an introduction to processing and querying spatiotemporal data in PostgreSQL
+
+This tutorial covers:
+- processing spatiotemporal data 
+- querying spatiotemporal data 
+
+Tools:
+- PostgreSQL
+- QGIS
