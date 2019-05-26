@@ -1,4 +1,4 @@
-# processing and analyzing spatiotemporal data
+# spatiotemporal data processing
 
 This tutorial covers:
 - processing spatiotemporal data 
